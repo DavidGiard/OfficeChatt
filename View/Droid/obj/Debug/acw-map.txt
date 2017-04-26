@@ -1,7 +1,7 @@
-Test0425.Droid.MainActivity, Test0425.Droid;md51670560c6a6c7a740a13502ccc87311c.MainActivity
-Test0425.Droid.MainActivity, Test0425.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51670560c6a6c7a740a13502ccc87311c.MainActivity
-Test0425.Droid.MainActivity;md51670560c6a6c7a740a13502ccc87311c.MainActivity
-test0425.droid.MainActivity;md51670560c6a6c7a740a13502ccc87311c.MainActivity
+test0426xam.Droid.MainActivity, test0426xam.Droid;md5146e070916582a4acbefda335edbb92f.MainActivity
+test0426xam.Droid.MainActivity, test0426xam.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5146e070916582a4acbefda335edbb92f.MainActivity
+test0426xam.Droid.MainActivity;md5146e070916582a4acbefda335edbb92f.MainActivity
+test0426xam.droid.MainActivity;md5146e070916582a4acbefda335edbb92f.MainActivity
 Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor

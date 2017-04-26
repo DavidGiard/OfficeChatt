@@ -2,11 +2,11 @@
 # [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.8.0.175/lib/mtouch/mtouch.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.8.0.175/lib/mtouch/mtouch.exe \
 	--cache \
-	/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache \
+	/Users/davidgiard/Projects/test0426xam/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache \
 	--sim \
-	/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/Test0425.iOS.app \
+	/Users/davidgiard/Projects/test0426xam/iOS/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/test0426xam.iOS.app \
 	--executable \
-	Test0425.iOS \
+	test0426xam.iOS \
 	--fastdev \
 	--debug \
 	--nolink \
@@ -19,7 +19,7 @@
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
 	--symbollist \
-	/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list \
+	/Users/davidgiard/Projects/test0426xam/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -30,15 +30,15 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/davidgiard/Projects/test0426xam/packages/Xamarin.Forms.2.3.4.231/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Users/davidgiard/Projects/test0426xam/packages/Xamarin.Forms.2.3.4.231/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/davidgiard/Projects/test0426xam/packages/Xamarin.Forms.2.3.4.231/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/davidgiard/Projects/test0426xam/packages/Xamarin.Forms.2.3.4.231/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/Test0425/bin/Debug/Test0425.dll \
+	/Users/davidgiard/Projects/test0426xam/test0426xam/bin/Debug/test0426xam.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -304,15 +304,15 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/davidgiard/Projects/test0426xam/packages/Xamarin.Forms.2.3.4.231/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Users/davidgiard/Projects/test0426xam/packages/Xamarin.Forms.2.3.4.231/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/davidgiard/Projects/test0426xam/packages/Xamarin.Forms.2.3.4.231/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/davidgiard/Projects/test0426xam/packages/Xamarin.Forms.2.3.4.231/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/davidgiard/Projects/Test0425/Test0425/bin/Debug/Test0425.dll \
+	/Users/davidgiard/Projects/test0426xam/test0426xam/bin/Debug/test0426xam.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Test0425.iOS.exe \
+	/Users/davidgiard/Projects/test0426xam/iOS/bin/iPhoneSimulator/Debug/test0426xam.iOS.exe \
