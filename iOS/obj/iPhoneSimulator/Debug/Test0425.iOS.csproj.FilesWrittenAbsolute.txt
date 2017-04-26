@@ -1,0 +1,15 @@
+/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Test0425.iOS.exe.mdb
+/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Test0425.iOS.exe
+/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/Test0425.iOS.exe
+/Users/davidgiard/Projects/Test0425/iOS/obj/iPhoneSimulator/Debug/Test0425.iOS.exe.mdb
+/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Test0425.dll
+/Users/davidgiard/Projects/Test0425/iOS/bin/iPhoneSimulator/Debug/Test0425.dll.mdb
