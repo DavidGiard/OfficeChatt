@@ -97,24 +97,17 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-<<<<<<< HEAD
-		/* We need to ensure that "Test0425.Droid.dll" comes first in this list. */
-		"Test0425.Droid.dll",
-		"FormsViewGroup.dll",
-=======
 		/* We need to ensure that "test0426xam.Droid.dll" comes first in this list. */
 		"test0426xam.Droid.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.Vector.Drawable.dll",
->>>>>>> a44a0ce1a6f35ebad367b0e811b65fa57709bd24
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
-		"Xamarin.Android.Support.Design.dll",
-		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.v7.AppCompat.dll",
+		"Xamarin.Android.Support.v7.RecyclerView.dll",
+		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v7.CardView.dll",
 		"Xamarin.Android.Support.v7.MediaRouter.dll",
-		"Xamarin.Android.Support.v7.RecyclerView.dll",
-		"Xamarin.Android.Support.Vector.Drawable.dll",
+		"FormsViewGroup.dll",
 		"Xamarin.Forms.Core.dll",
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
