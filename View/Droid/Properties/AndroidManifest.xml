@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.test0425">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.test0426xam">
 	<uses-sdk android:minSdkVersion="15" />
+<<<<<<< HEAD
 	<application android:label="Test0425"></application>
 </manifest>
+=======
+	<application android:label="test0426xam'">
+	</application>
+</manifest>
+>>>>>>> a44a0ce1a6f35ebad367b0e811b65fa57709bd24

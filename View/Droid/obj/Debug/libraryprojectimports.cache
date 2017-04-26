@@ -2,8 +2,13 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
+<<<<<<< HEAD
     <ResolvedResourceDirectory>C:\code\OfficeChatt\View\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\code\OfficeChatt\View\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+=======
+    <ResolvedResourceDirectory>/Users/davidgiard/Projects/OfficeChat/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/davidgiard/Projects/OfficeChat/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+>>>>>>> a44a0ce1a6f35ebad367b0e811b65fa57709bd24
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
@@ -11,7 +16,12 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
+<<<<<<< HEAD
     <ResolvedResourceDirectoryStamp>C:\code\OfficeChatt\View\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\code\OfficeChatt\View\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+=======
+    <ResolvedResourceDirectoryStamp>/Users/davidgiard/Projects/OfficeChat/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/davidgiard/Projects/OfficeChat/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+>>>>>>> a44a0ce1a6f35ebad367b0e811b65fa57709bd24
   </ResolvedResourceDirectoryStamps>
 </Paths>

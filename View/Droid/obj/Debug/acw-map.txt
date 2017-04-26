@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test0425.Droid.MainActivity, Test0425.Droid;md51670560c6a6c7a740a13502ccc87311c.MainActivity
 Test0425.Droid.MainActivity, Test0425.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51670560c6a6c7a740a13502ccc87311c.MainActivity
 Test0425.Droid.MainActivity;md51670560c6a6c7a740a13502ccc87311c.MainActivity
@@ -22,6 +23,12 @@ Android.Support.Design.Widget.TabLayout/IOnTabSelectedListenerImplementor, Xamar
 Android.Support.Design.Widget.TabLayout+IOnTabSelectedListenerImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
 Android.Support.Design.Widget.TabLayout.IOnTabSelectedListenerImplementor;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
 mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
+=======
+test0426xam.Droid.MainActivity, test0426xam.Droid;md5146e070916582a4acbefda335edbb92f.MainActivity
+test0426xam.Droid.MainActivity, test0426xam.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5146e070916582a4acbefda335edbb92f.MainActivity
+test0426xam.Droid.MainActivity;md5146e070916582a4acbefda335edbb92f.MainActivity
+test0426xam.droid.MainActivity;md5146e070916582a4acbefda335edbb92f.MainActivity
+>>>>>>> a44a0ce1a6f35ebad367b0e811b65fa57709bd24
 Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor

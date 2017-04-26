@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace Test0425.iOS
+namespace test0426xam.iOS
 {
 	[Register("AppDelegate")]
 	public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate

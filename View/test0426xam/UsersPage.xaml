@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="test0426xam.UsersPage">
+	<ContentPage.Content>
+
+		<ListView 
+			x:Name="UserList"
+			ItemsSource="{ Binding UsersCollection }" 
+			RowHeight="100" 
+			VerticalOptions="FillAndExpand"
+			HorizontalOptions="Center">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<ViewCell>
+
+							<Grid Padding="5" BackgroundColor="Aqua">
+								<Grid.RowDefinitions>
+									<RowDefinition Height="20"></RowDefinition>
+									<RowDefinition Height="20"></RowDefinition>
+									<RowDefinition Height="20"></RowDefinition>
+									<RowDefinition Height="20"></RowDefinition>
+								</Grid.RowDefinitions>
+								<Grid.ColumnDefinitions>
+									<ColumnDefinition Width="100"></ColumnDefinition>
+									<ColumnDefinition Width="*"></ColumnDefinition>
+								</Grid.ColumnDefinitions>
+								<Label Grid.Row="0" Grid.Column="0" Text="Name: "></Label>
+								<Label Grid.Row="0" Grid.Column="1" Text= "{ Binding Name }"></Label>
+
+								<Label Grid.Row="1" Grid.Column="0" Text="Title: "></Label>
+								<Label Grid.Row="1" Grid.Column="1" Text= "{ Binding JobTitle }"></Label>
+
+								<Label Grid.Row="2" Grid.Column="0" Text="Phone: "></Label>
+								<Label Grid.Row="2" Grid.Column="1" Text= "{ Binding PhoneNumber }"></Label>
+							</Grid>
+
+					</ViewCell>
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+	</ContentPage.Content>
+</ContentPage>
